@@ -1,0 +1,369 @@
+C:\Users\Ricardo\exercicios\Veiculos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ricardo\exercicios\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.exe
+C:\Users\Ricardo\exercicios\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.deps.json
+C:\Users\Ricardo\exercicios\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.json
+C:\Users\Ricardo\exercicios\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.dev.json
+C:\Users\Ricardo\exercicios\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\Ricardo\exercicios\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\Ricardo\exercicios\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csprojAssemblyReference.cache
+C:\Users\Ricardo\exercicios\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ricardo\exercicios\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfoInputs.cache
+C:\Users\Ricardo\exercicios\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfo.cs
+C:\Users\Ricardo\exercicios\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.RazorTargetAssemblyInfo.cache
+C:\Users\Ricardo\exercicios\Veiculos\obj\Debug\netcoreapp3.1\staticwebassets\Veiculo.StaticWebAssets.Manifest.cache
+C:\Users\Ricardo\exercicios\Veiculos\obj\Debug\netcoreapp3.1\staticwebassets\Veiculo.StaticWebAssets.xml
+C:\Users\Ricardo\exercicios\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\Ricardo\exercicios\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo.Costa\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.csprojAssemblyReference.cache
+C:\Users\Ricardo.Costa\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfoInputs.cache
+C:\Users\Ricardo.Costa\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfo.cs
+C:\Users\Ricardo.Costa\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo.Costa\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ricardo.Costa\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\Ricardo.Costa\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Veiculo.StaticWebAssets.xml
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Veiculo.exe
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Veiculo.deps.json
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.json
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.dev.json
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\staticwebassets\Veiculo.StaticWebAssets.Manifest.cache
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\scopedcss\bundle\Veiculo.styles.css
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.RazorTargetAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\LocadoraC-\obj\Debug\netcoreapp3.1\Veiculo.genruntimeconfig.cache
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.exe
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.deps.json
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.json
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.dev.json
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csprojAssemblyReference.cache
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfoInputs.cache
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfo.cs
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CopyComplete
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csprojAssemblyReference.cache
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfoInputs.cache
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfo.cs
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.deps.json
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.json
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.dev.json
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.genruntimeconfig.cache
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.exe
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CopyComplete
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Veiculo.exe
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Veiculo.deps.json
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.json
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.dev.json
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\obj\Debug\netcoreapp3.1\Veiculo.csprojAssemblyReference.cache
+C:\Users\ricardo.costa\Desktop\LocadoraForms\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfoInputs.cache
+C:\Users\ricardo.costa\Desktop\LocadoraForms\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfo.cs
+C:\Users\ricardo.costa\Desktop\LocadoraForms\obj\Debug\netcoreapp3.1\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.costa\Desktop\LocadoraForms\obj\Debug\netcoreapp3.1\Veiculo.csproj.CopyComplete
+C:\Users\ricardo.costa\Desktop\LocadoraForms\obj\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\ricardo.costa\Desktop\LocadoraForms\obj\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\ricardo.costa\Desktop\LocadoraForms\obj\Debug\netcoreapp3.1\Veiculo.genruntimeconfig.cache
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.exe
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.deps.json
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.json
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.dev.json
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csprojAssemblyReference.cache
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfoInputs.cache
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfo.cs
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CopyComplete
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ceflo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csprojAssemblyReference.cache
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfoInputs.cache
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfo.cs
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.exe
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.deps.json
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.json
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.dev.json
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ricardo.costa\Desktop\Locadora\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CopyComplete
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.costa\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.genruntimeconfig.cache
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.exe
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.deps.json
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.json
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.dev.json
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\Ricardo\Desktop\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.genruntimeconfig.cache
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.exe
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.deps.json
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.json
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.dev.json
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Veiculo.pdb
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\backup\Locadora-de-Veiculos\obj\Debug\netcoreapp3.1\Veiculo.genruntimeconfig.cache
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.exe
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.deps.json
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.json
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.runtimeconfig.dev.json
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Veiculo.pdb
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csprojAssemblyReference.cache
+D:\Users\Luiz Paulo\Desktop\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfoInputs.cache
+D:\Users\Luiz Paulo\Desktop\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.AssemblyInfo.cs
+D:\Users\Luiz Paulo\Desktop\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CoreCompileInputs.cache
+D:\Users\Luiz Paulo\Desktop\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.csproj.CopyComplete
+D:\Users\Luiz Paulo\Desktop\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.dll
+D:\Users\Luiz Paulo\Desktop\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.pdb
+D:\Users\Luiz Paulo\Desktop\Veiculos\obj\Debug\netcoreapp3.1\Veiculo.genruntimeconfig.cache
