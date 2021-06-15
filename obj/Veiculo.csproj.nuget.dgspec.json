@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Luiz Paulo\\Desktop\\Veiculos\\Veiculo.csproj": {}
+    "D:\\Users\\Luiz Paulo\\Desktop\\Veiculo\\Veiculo\\Veiculo.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Luiz Paulo\\Desktop\\Veiculos\\Veiculo.csproj": {
+    "D:\\Users\\Luiz Paulo\\Desktop\\Veiculo\\Veiculo\\Veiculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Luiz Paulo\\Desktop\\Veiculos\\Veiculo.csproj",
+        "projectUniqueName": "D:\\Users\\Luiz Paulo\\Desktop\\Veiculo\\Veiculo\\Veiculo.csproj",
         "projectName": "Veiculo",
-        "projectPath": "D:\\Users\\Luiz Paulo\\Desktop\\Veiculos\\Veiculo.csproj",
+        "projectPath": "D:\\Users\\Luiz Paulo\\Desktop\\Veiculo\\Veiculo\\Veiculo.csproj",
         "packagesPath": "C:\\Users\\Luiz Paulo\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Luiz Paulo\\Desktop\\Veiculos\\obj\\",
+        "outputPath": "D:\\Users\\Luiz Paulo\\Desktop\\Veiculo\\Veiculo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

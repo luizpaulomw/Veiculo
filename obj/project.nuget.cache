@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PUDPpwSRwdMfzoR5jiQKgpzGT1ohC1ec4/RhNYsjkUPGEkToQsC0LNm01URWjC+61x+Hv/upBCjuRzCGL7oHmw==",
+  "dgSpecHash": "nuc7p2dCFOyTnNTj8iHOEC7x5w1lmz4KqAT7JWBj1w7DMvRvIgstO+9Xi87TJJ4bicQqdNkROzEz50jcHGbRXA==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Luiz Paulo\\Desktop\\Veiculos\\Veiculo.csproj",
+  "projectFilePath": "D:\\Users\\Luiz Paulo\\Desktop\\Veiculo\\Veiculo\\Veiculo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luiz Paulo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Luiz Paulo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
